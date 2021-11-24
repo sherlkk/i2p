@@ -2,13 +2,13 @@
 
 ### Declaration of Authorship
 
-I, [insert your name], confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
+I, Rongrong Xue, confirm that the work presented in this assessment is my own. Where information has been derived from other sources, I confirm that this has been indicated in the work.
 
-['Sign' your name here]
+Rongrong Xue
 
-Date of signature: 
-Assessment due date: 
-Student Number: 
+Date of signature: 26/11/2021
+Assessment due date: 26/11/2021
+Student Number: 20049716
 
 _Please write your answer immediately below the level-3 headers and delete the guidance prior to submission._
 
@@ -16,14 +16,13 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 ### 1. Who collected the data?
 
-#### 25 words; 2 points; Consider the source of the data and its relation to the underlying data generating process.
+I collected the data.
 
 ---
 
 ### 2. Why did they collect it?
 
-#### 50 words, 4 points; Consider the purposes for which the data was collected and how this might shape its form/content.
-
+I need to complish my assessment.
 ---
 
 ### 3. How was it collected?
