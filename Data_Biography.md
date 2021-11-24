@@ -16,13 +16,12 @@ _Please write your answer immediately below the level-3 headers and delete the g
 
 ### 1. Who collected the data?
 
-I collected the data.
 
 ---
 
 ### 2. Why did they collect it?
 
-I need to complish my assessment.
+
 ---
 
 ### 3. How was it collected?
